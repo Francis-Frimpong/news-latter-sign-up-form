@@ -41,3 +41,8 @@ form{
 .checked-text p img{
     padding-right: 15px;
 }
+
+.errorText{
+    color: #ff7a7a;
+    display: none;
+}
